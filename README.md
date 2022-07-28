@@ -1,5 +1,5 @@
 ### Title: 
-***Mapping MeSH (ICD codes) to molecular mechanism through protein-protein co-occurance graph***
+***Mapping MeSH (ICD codes) to molecular mechanism through protein-protein co-occurance graph -- toward high precission medicine***
 
 ### Detail:
 
