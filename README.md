@@ -35,6 +35,6 @@ This project offers the opportunity of learning about disease terminologies (MeS
 Implementation of text-mining for building mapping of MeSH (ICD codes) to molecular mechanism through protein-protein co-occurance graph provides the new insight toward the high precission medicine. In case of medical informatics, this approach will help in building automated cohort selection and patients classification. It will be helpful in creating personalized interface of clinical and biomedical information.
 
 ### References: 
-
+1. [International Classification of Diseases (ICD)](https://www.who.int/standards/classifications/classification-of-diseases)
 
 
