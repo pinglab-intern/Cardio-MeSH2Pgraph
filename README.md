@@ -3,7 +3,8 @@
 
 ### Detail:
 
-![](plots/pmed.png)
+<img src="plots/pmed.png" alt="drawing" width="200"/>
+
 Fig: Sigdel et. al., Understanding the Molecular Interface
 of Cardiovascular Diseases and COVID-19:
 A Data Science Approach, Advanced Technologies in Cardiovascular Bioengineering
