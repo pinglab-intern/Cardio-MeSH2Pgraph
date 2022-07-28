@@ -38,7 +38,7 @@ Implementation of text-mining for building mapping of MeSH (ICD codes) to molecu
 1. [International Classification of Diseases (ICD)](https://www.who.int/standards/classifications/classification-of-diseases)
 2. [Reactome](https://reactome.org)
 3. [Drug Bank](https://www.drugbank.com)
-4. [HMDB] (https://hmdb.ca)
+4. [HMDB](https://hmdb.ca)
 5. [Graph Academy](https://neo4j.com/graphacademy/)
 6. [Graph Data Science Library -GDS](https://neo4j.com/docs/graph-data-science/current/algorithms/)
 
