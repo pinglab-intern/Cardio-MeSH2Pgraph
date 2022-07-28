@@ -5,7 +5,7 @@
 
 One of the central idea in personalized medicine is to understanding the disease and symptoms in terms of molecular phenotypes. Bridging molecular phenotypes to disease signs and symptoms is a challenging task. The bigest question is building the personal interactome through the interface of personal omics and past history of medical records (e.g., EHR, EMR). In this project, our attempt will be to create a mapping of Medical Subjet Heading (MeSH/ICD) to relevant protein-protein co-occurance graph. Since MeSH terms are organized in hierarchical tree structure, we are only considering the leaf nodes of the cardiovascular tree.  With protein-protein co-occurance graph, one can extend it to relevant genes, metabolites and molecular pathways. 
 
-<img src="plots/pmed.png" alt="drawing" width="400"/>
+<img src="plots/pmed.png" alt="drawing" width="500"/>
 
 Figure: Sigdel et. al., Understanding the Molecular Interface of 
 Cardiovascular Diseases and COVID-19:A Data Science Approach, 
