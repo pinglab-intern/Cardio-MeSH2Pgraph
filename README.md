@@ -29,10 +29,10 @@ Advanced Technologies in Cardiovascular Bioengineering, 2022
 8. Load graph data in Neo4J platform for further exploration
 
 ### Educational Goal:
-This project offers the opportunity of learning about disease terminologies (MeSH/ICD codes) as tree data structure. These data structure play key role in organizing documents in databases (e.g., MeSH in PubMed, ICD codes in EHR database). Implementing knowledggraph for targeted disese/symptoms to molecular mechanism is central construct of creating a interface of personl EHR data and scientific research.
+This project offers the opportunity of learning about disease terminologies (MeSH/ICD codes) as tree data structure. These data structure play key role in organizing documents in databases (e.g., MeSH in PubMed, ICD codes in EHR database). Implementing text-mining and knowledggraph for targeted disese/symptoms to molecular mechanism is central construct of creating a interface of personl EHR data and scientific research. The take home skills in this projects are text-mining, data engineering with graph data, and AI algorithms.
 
 ### Scientific Goal:
-
+Implementation of text-mining for building mapping of MeSH (ICD codes) to molecular mechanism through protein-protein co-occurance graph provides the new insight toward the high precission medicine. In case of medical informatics, this approach will help in building automated cohort selection and patients classification. It will be helpful in creating personalized interface of clinical and biomedical information.
 
 ### References: 
 
