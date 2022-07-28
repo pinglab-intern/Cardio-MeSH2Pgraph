@@ -7,8 +7,9 @@ One of the central idea in personalized medicine is to understanding the disease
 
 <img src="plots/pmed.png" alt="drawing" width="400"/>
 
-Figure: ***Sigdel et. al., Understanding the Molecular Interface
-of Cardiovascular Diseases and COVID-19:A Data Science Approach***, Advanced Technologies in Cardiovascular Bioengineering
+Figure: Sigdel et. al., Understanding the Molecular Interface of 
+Cardiovascular Diseases and COVID-19:A Data Science Approach, 
+Advanced Technologies in Cardiovascular Bioengineering, 2022
 
 
 ### Data Sources
