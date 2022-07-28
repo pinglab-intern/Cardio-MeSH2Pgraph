@@ -3,18 +3,13 @@
 
 ### Detail:
 
-![](pmed.png)
+![](plots/pmed.png)
+Fig: Sigdel et. al., Understanding the Molecular Interface
+of Cardiovascular Diseases and COVID-19:
+A Data Science Approach, Advanced Technologies in Cardiovascular Bioengineering
 
-Fig. 1 Characterizing relationships among molecular phenotypes, diseases, and symptoms.
-Understanding disease pathology through molecular phenotyping is a rapidly growing approach in
-precision medicine; this complements the classic clinical perspective diagnosis of disease through
-signs and symptoms. Bridging molecular phenotypes to disease signs and symptoms remains a
-challenging task. Overcoming this challenge is a central motivation for our project using methods
-of biomedical informatics. Intuitively, these relationships can be represented in a graph structure
-informed by multiple databases. Some of these databases are listed in the boxes in the !gure above
-Advanced Technologies in Cardiovascular Bioengineering
 
-One of the central idea in personalized medicine is to understanding the disease in terms of molecular mechanism in personal interactome. The personal interactome could be built through personal omics and past history of medical records (e.g., EHR, EMR). In this project, our attempt will be to create a mapping of Medical Subjet Heading (MeSH/ICD) to relevant protein-protein co-occurance graph. Since MeSH terms are organized in hierarchical tree structure, we are only considering the leaf nodes of the cardiovascular tree.  With protein-protein co-occurance graph, one can extend it to relevant genes, metabolites and molecular pathways. 
+One of the central idea in personalized medicine is to understanding the disease and symptoms in terms of molecular phenotypes. Bridging molecular phenotypes to disease signs and symptoms is a challenging task. The bigest question is building the personal interactome through the interface of personal omics and past history of medical records (e.g., EHR, EMR). In this project, our attempt will be to create a mapping of Medical Subjet Heading (MeSH/ICD) to relevant protein-protein co-occurance graph. Since MeSH terms are organized in hierarchical tree structure, we are only considering the leaf nodes of the cardiovascular tree.  With protein-protein co-occurance graph, one can extend it to relevant genes, metabolites and molecular pathways. 
 
 ### Data Sources
 
